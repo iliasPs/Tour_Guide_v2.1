@@ -1,0 +1,223 @@
+<resources>
+    <string name="app_name">Tour_Guide</string>
+
+
+    <string name="acropolis_short_desc">The Acropolis of Athens and its monuments are universal
+        symbols of the classical spirit and civilization</string>
+    <string name="acropolis_desc">The Acropolis of Athens and its monuments are universal
+        symbols of the classical spirit and civilization and form the greatest architectural and artistic complex
+        bequeathed by Greek Antiquity to the world. In the second half of the fifth century bc, Athens,
+        following the victory against the Persians and the establishment of democracy,
+        took a leading position amongst the other city-states of the ancient world.
+        In the age that followed, as thought and art flourished, an exceptional group of
+        artists put into effect the ambitious plans of Athenian statesman Pericles and, under the inspired guidance of
+        the sculptor Pheidias, transformed the rocky hill into a unique monument of thought and the arts.
+        The most important monuments were built during that time: the Parthenon, built by Ictinus, the Erechtheon
+        , the Propylaea, the monumental entrance to the Acropolis, designed by Mnesicles and the small temple Athena Nike.</string>
+    <string name="acropolis_title"><u>Acropolis</u></string>
+    <string name="acropolis_location">Athens, Greece</string>
+    <string name="cat_landmark">Landmarks</string>
+    <string name="cat_museum">Museums</string>
+    <string name="cat_bars">Bars</string>
+    <string name="cat_restaurants">Restaurants</string>
+    <string name="soldier_short_desc">The Tomb of the Unknown Soldier is a war memorial located in Syntagma Square in Athens</string>
+    <string name="soldier_title"><u>Tomb of the Unknown Soldier</u></string>
+
+    <string name="soldier_desc">The Tomb of the Unknown soldier is located in Syntagma
+        Square in Athens by the Hellenic Parliament building. The tomb honors all those Greek soldiers who were ever killed
+        in war and each day, there is a special ceremony performed here that further honors the following.
+        While visiting the city, you absolutely don’t want to miss the chance to not only see the tomb itself, but
+        to view the ceremony if you are able. The Hellenic Parliament building, however, is more than just the parliament.
+        That building has a rich history, as well, since it was the palace when Greece was ruled by a monarchy.</string>
+    <string name="soldier_location">Athens, Greece</string>
+    <string name="stadium_title"><u>Panathenaic Stadium</u></string>
+    <string name="stadium_location">Athens, Greece</string>
+    <string name="stadium_short_desc">The Panathenaic Stadium or Kallimarmaro is a multi-purpose stadium in Athens, Greece.
+    One of the main historic attractions of Athens</string>
+    <string name="stadium_desc">The Panathenaic Stadium is located on the site of an ancient stadium and for many centuries hosted games in which nude male athletes
+        competed (gymnikoi agones) in track events, athletics championships as we would call them today. The games, which since antiquity had been held in an
+        area far from the city, were included in the programme of the Panathenaia festival celebrations in 566/565 BC. When the orator Lykourgos
+        assumed responsibility for the finances of Athens, in 338 BC, he included in the public works carried out in the city the building of a Stadium.
+        The ravine running between Ardettos Hill and the low height opposite, extra muros of the city and in an idyllic setting on the verdant banks of
+        the River Ilissos, was deemed to be an ideal location. This was private land but its owner, Deinias, conceded it to the State for the construction
+        of a Stadium. Major earth-removal works transformed the ravine into a space for contests, with the features of the Greek stadium: parallelogram shape
+        with entrance at one narrow end and room for the spectators on the earth slopes of the other three sides. Lykourgos’ stadium was used for the first time during the celebration
+        of the Great Panathenaia in 330/29 BC, when games in which nude athletes competed were held.</string>
+    <string name="plaka_title"><u>Plaka</u></string>
+    <string name="plaka_location">Athens, Greece</string>
+    <string name="plaka_short_desc">Pláka is the old historical neighborhood of Athens, clustered around the northern and eastern slopes of the Acropolis</string>
+    <string name="plaka_desc">The area of Plaka is one of the most attractive districts of Athens. Under the slopes of the Acropolis Plaka
+        attracts all the visitors of Athens with its neoclassical mansions and houses with roofs from red tiles, its small winding roads
+        with their steps, balconies with bougainvilleas ,geraniums and jasmines. Plaka is called many times in the Greek literature as the
+        neighbourhood of the Gods and that because over Plaka dominates the sacred rock of the Acropolis "the sacred rock of the gods"
+        who made the modern Athenians with the same humour like their Ancient ancestors, to  personalise the Olympian gods having fun like them in Plaka
+        with lots of Retsina wine and Dance. Sometimes being romantic on a sunny day you feel  that  the Greek goddess Athena  looks down to Plaka with a
+        smile in her divine face as the modern Athenians enjoy the sunshine in the street cafes at Adrianou street overlooking Thission the Ancient Agora and the
+        rock of Arios Pagos.</string>
+    <string name="theater_title"><u>Odeon of Herodes Atticus</u></string>
+    <string name="theater_location">Athens, Greece</string>
+    <string name="theater_short_desc">The Odeon of Herodes Atticus is a stone theatre structure located on the southwest slope of the Acropolis of Athens</string>
+    <string name="theater_desc">he Odeon of Herodes Atticus in Athens: Built at the base of the Acropolis, the ancient amphitheatre of Herodeion,
+        also known as the Odeon of Herodus Atticus, is today one of the best places to experience a live classical theatre performance. This ancient
+        theater was built in the Roman times, in about 161 A.D. by the Roman philosopher, teacher and politician Herodes Atticus. It was
+        built in the memory of his wife Aspasia Regilla who died in 160 AD. This semi-circular amphitheater has a wide 1,250 feet radius with
+        a seating capacity of more than 6,000 people. The original wall of the stage stood three storeys high and was decorated with marbles and ceramic pieces while
+        today it stands in ruins. The stage and seating area was laid with marble while it has been renovated today. A cedar-wooden
+        roof covered the theatre in the ancient times. Today you can attend the Athens Art Festival, musical concerts and classical tragedies under the night sky with a marvelous
+        acoustic experience. All events are held from May to early October since the theatre is open. The Herodeion Theatre stands on Dionysiou Areopagitou Pedestrian
+        Street, right under the Acropolis.</string>
+    <string name="benaki_title"><u>Benaki Museum</u></string>
+    <string name="benaki_location">Athens, Greece</string>
+    <string name="benaki_short_desc">he Benaki Museum, established and endowed in 1930 by Antonis Benakis in memory of his father Emmanuel Benakis,
+        is housed in the Benakis family mansion in downtown Athens, Greece</string>
+    <string name="benaki_desc">The Benaki Museum was founded in 1930 by Antonis Benakis and presents the historical and cultural development of
+        the Greek nation. Through its extensive collections that cover several different cultural fields –from the age of Roman domination to
+        the medieval Byzantine period and from the fall of Constantinople to the struggle for Greek independence in 1821- the Benaki Museum
+        is perhaps the sole instance of a complex structure within the broader network of museum foundations in Greece.</string>
+    <string name="acropolis_museum_title"><u>Acropolis Museum</u></string>
+    <string name="acropolis_museum_location">Athens, Greece</string>
+    <string name="acropolis_museum_short_desc">The Acropolis Museum is an archaeological museum focused on the findings of
+        the archaeological site of the Acropolis of Athens.</string>
+    <string name="acropolis_museum_desc">The monuments of the Acropolis have withstood the ravages of past centuries, both of ancient times and those of
+        the Middle Ages. Until the 17th century, foreign travellers visiting the monuments depicted the classical buildings as being intact. This remained the case until
+        the middle of the same century, when the Propylaia was blown up while being used as a gunpowder store. Thirty years later, the Ottoman occupiers dismantled the neighbouring Temple of Athena Nike to use its
+        materials to strengthen the fortification of the Acropolis. The most fatal year, however, for the Acropolis, was 1687, when many of the building’s
+        architectural members were blown into the air and fell in heaps around the Hill of the Acropolis, caused by a bomb from the
+        Venetian forces. Foreign visitors to the Acropolis would search through the rubble and take fragments of the fallen sculptures as their souvenirs
+        . It was in the 19th century that Lord Elgin removed intact architectural sculptures from the frieze, the metopes and the pediments of the building.
+
+In 1833, the Turkish garrison withdrew from the Acropolis. Immediately after the founding of the Greek State, discussions about the construction of an
+        Acropolis Museum on the Hill of the Acropolis began. In 1863, it was decided that the Museum be constructed on a site to the southeast of the Parthenon
+        and foundations were laid on 30 December 1865.
+
+The building program for the Museum had provided that its height not surpasses the height of the stylobate of the Parthenon. With only 800
+        square meters of floor space, the building was rapidly shown to be inadequate to accommodate the findings from the large excavations on the
+        Acropolis that began in 1886. A second museum was announced in 1888, the so-called Little Museum. Final changes occurred in 1946-1947
+        with the second Museum being demolished and the original being sizably extended.
+
+By the 1970s, the Museum could not cope satisfactorily with the large numbers of visitors passing through its doors. The inadequacy of the
+        space frequently caused problems and downgraded the sense that the exhibition of the masterpieces from the Rock sought to achieve.
+
+The Acropolis Museum was firstly conceived by Constantinos Karamanlis in September 1976. He also selected the
+        site, upon which the Museum was finally built, decades later. With his penetrating vision, C. Karamanlis defined the need and established the means for a new Museum equipped with all technical facilities for the conservation of the invaluable Greek artifacts, where eventually the Parthenon sculptures will be reunited.
+
+For these reasons, architectural competitions were conducted in 1976 and 1979, but without success. In 1989, Melina Mercouri, who as Minister of Culture inextricably identified
+        her policies with the claim for the return of the Parthenon Marbles from the British Museum, initiated an international architectural competition. The results of this
+        competition were annulled following the discovery of a large urban settlement on the Makriyianni site dating from Archaic to Early Christian
+        Athens. This discovery now needed to be integrated into the New Museum that was to be built on this site.
+
+In the year 2000, the Organization for the Construction of the New Acropolis Museum announced an invitation to a new
+        tender, which was realized in accord with the Directives of the European Union. It is this Tender that has come to
+        fruition with the awarding of the design tender to Bernard Tschumi with Michael Photiadis and their associates and the completion of construction
+        in 2007.
+
+Today, the new Acropolis Museum has a total area of 25,000 square meters, with exhibition space of over 14,000 square meters, ten
+        times more than that of the old museum on the Hill of the Acropolis. The new Museum offers all the amenities expected in an international museum of
+        the 21st century.</string>
+    <string name="cycladic_title"><u>Museum of Cycladic Art</u></string>
+    <string name="cycladic_location">Athens, Greece</string>
+    <string name="cycladic_short_desc">The Museum of Cycladic Art is a private living cultural institution in the heart of Athens. </string>
+    <string name="cycladic_desc">The Museum of Cycladic Art is a private living cultural institution in the heart of Athens. More than 3.000 objects of
+        Cycladic, Ancient Greek and Cypriot art (dating from the 5th millennium BC to the 6th century AD) are displayed in the galleries of the four floors
+        of the Museum of Cycladic Art. This summer the museum also hosts two contemporary art exhibitions by artists Jannis Kounelis and Ugo Rondinone.
+        The museum can be accessed either from the entrance from the Stathatos Mansion (1 Irodotou Str and Vasilissis Sofias Avenue) or from the entrance at
+        4 Neofytou Douka Str and Vasilissis Sofias Avenue.</string>
+    <string name="war_title"><u>War Museum</u></string>
+    <string name="war_location">Athens, Greece</string>
+    <string name="war_short_desc">The Athens War Museum, established on July 18, 1975, is the museum of the Greek Armed Forces.</string>
+    <string name="war_desc">In 1964, the Hellenic State decided to found the War Museum, wishing to honor all those who fought for our country and its
+        freedom.The design of the museum was undertaken by a team of distinguished scientists, headed by Professor Thoukidides Valentis of the National
+        Technical university of Athens (N.T.U.A).On July 18, 1975, the President of the Hellenic Republic H.E. Constantine Tsatsos and the Minister of
+        National Defense Evangelos Averof-Tositsas inaugurated the Museum.Its various activities include the publication of books, the establishment and
+        maintenance of monuments and memorials and the aid to services and agencies all over Greece.The Museum’s exhibition areas are distributed over four
+        levels (floors) and present images of Greek history from antiquity to the present.</string>
+    <string name="dinner_sky_title"><u>Dinner in the Sky</u></string>
+    <string name="dinner_sky_location">Athens, Greece</string>
+    <string name="dinner_sky_short_desc">A unique dining experience in the center of Athens - Greece. Something you will always remember. </string>
+    <string name="dinner_sky_desc">An extraordinary culinary proposal -in the center of Athens- welcomes you! A table for 22 people, along with our
+        experienced chefs who are preparing a 5 course menu, lifts you up to 50 meters and offers once in a life time experience over the city.
+
+Dinner in the Sky takes you to heaven, while the nightlife of Athens “awakens”. As the table slowly rotates you get views ranging
+        from the sculpturally lit Acropolis, the surrounding mountains, the sea and of course the Athenian cityscape.
+
+Invite your friends, loved ones or colleagues to a special dinner and spice up your nights in Athens with a combination of exceptional food
+        and breathtaking views. Try special, modern tastes inspired by the Greek tradition accompanied by delicious Greek wines.</string>
+    <string name="varoulko_title"><u>Varoulko Seaside</u></string>
+    <string name="varoulko_location">Athens, Greece</string>
+    <string name="varoulko_short_desc">Widely acknowledged as the finest seafood restaurant in Athens, Lefteris Lazarou’s Michelin-starred Varoulko has
+        long been a magnet for foodies.</string>
+    <string name="varoulko_desc">Widely acknowledged as the finest seafood restaurant in Athens, Lefteris Lazarou’s Michelin-starred
+        Varoulko has long been a magnet for foodies. In summer 2014 it relocated to Piraeus, Mr Lazarou’s home ground, and is now named Varoulko
+        Seaside. The approach has changed too, and it’s now open all-day, with a reasonably-priced lunch menu and a more expensive dinner menu. The
+        emphasis remains on seafood, so you can look forward to delights such as Grilled squid with black eyed beans and marjoram, flavoured with cumin,
+        followed by Red mullet fillets with a light lemon sauce. You’ll find it at a lovely waterside location, overlooking the yachts and fishing boats
+        in Mikrolimano Bay.</string>
+    <string name="aleria_title"><u>Aleria</u></string>
+    <string name="aleria_location">Athens, Greece</string>
+    <string name="aleria_short_desc">In up-and-coming Metaxourgio, Aleria occupies a neoclassical building with an old tile floor and
+        a romantic leafy courtyard out back.</string>
+    <string name="aleria_desc">Aleria restaurant is located in the upcoming Metaxourgeio area of Athens and offers a harmonious combination of
+        an elegant and artistically designed decor with a cuisine that is world-class in its inventiveness and quality. The restaurant is a perfectly
+        restored villa from the early years of the previous century. The decor strikes the perfect balance between luxury and ambience, creating an atmosphere
+        which is quite formal but still unpretentious, cozy and elegant. Equally unique is also the space of the inner yard, where the restaurant is housed in
+        the summer. The paved area provides the required privacy and relaxation, while still in the centre of Athens. Here, the unique tables
+        featuring mosaic motives previously used on the floors of the original neoclassical building.
+
+The restaurant’s creative cuisine has been awarded many times; chef Gikas Xenakis is one of the best proponents of the Greek Creative Cuisine movement which
+        now attracts the most talented chefs in Greece. His philosophy is one that combines a calm but confident control of the modern cooking techniques with
+        his memories of traditional home food cooked with the best and freshest ingredients that the sea and land of Greece offers.
+        One of the signature dishes is the gourmet explosion of a seafood “mageiritsa”, which usually is a typical Easter Greek soup plate made by
+        lamp inwards, the beef cheeks flavored with fennel and lemon.</string>
+
+    <string name="psarras_title"><u>Psarras</u></string>
+    <string name="psarras_location">Athens, Greece</string>
+    <string name="psarras_short_desc">Plakas oldest restaurant continues to receive connoisseurs of the finest that Greek traditional cuisine has to offer</string>
+    <string name="psarras_desc">It is a classical tavern that remains for over two decades a meeting point of all those seeking
+        to combine the Greek cuisine to the culture of the historical Athenian center. The indoor area is friendly and cozy. Ideal for
+        business lunches, dinners and small group events. During summer, the picturesque alley becomes the pavilion of Psaras offering an authentic
+        experience to your guests.</string>
+    <string name="clumsies_title"><u>The Clumsies</u></string>
+    <string name="clumsies_location">Athens, Greece</string>
+    <string name="clumsies_short_desc">Far from clumsy...</string>
+    <string name="clumsies_desc">Far from clumsy, the concept of this warm and fun establishment is cleverly engineered to embrace a young crowd who like
+        to dance, lounge at the long bar or chill out in one of the many rooms surrounding it. Added to the mix is the private ‘Room’, designed to
+        look and feel like a living room where punters can play pool next to the library while being looked after by their own personal bartender for the night.
+
+The cocktail list changes annually. Currently called Genesis, it is inspired by art and Greek words. The drinks range from syrups and cordials made
+        from vegetable or fruit water, to seasonal cocktails and even fermented or preserved ingredients.
+
+The Clumsies is more than a bar, it is also a brand: the team organises various international cocktail projects, including the American Dream Bar, the
+        Asian and the Hotel pop-up where guests from some of the best bars in the world are invited to show their projects to the Athenian audience.</string>
+    <string name="rock_title"><u>Rock \'n Roll</u></string>
+    <string name="rock_location">Athens, Greece</string>
+    <string name="rock_short_desc">Rock n Roll is an old favorite with Athenians who prefer timeless class and naturally rock n roll music</string>
+    <string name="rock_desc">Rock n Roll is an old favorite with Athenians who prefer timeless class and naturally rock n roll music.
+        Popular with all ages, the club operates as an all day bar-restaurant, offering great pizza made by the Neapolitan chef, juicy burgers, pasta and salads.
+        Coffee and rock-tails are prepared by expert bar tenders. Parties with guest DJs, live events with rock groups, some mainstream music
+        , make this place ideal for laid back entertainment. The decor is inventive and interesting, with two large bars, stylish industrial notes and
+        understated luxury in details.
+    </string>
+    <string name="dogs_title"><u>Six d.o.g.s</u></string>
+    <string name="dogs_location">Athens, Greece</string>
+    <string name="dogs_short_desc">Six d.o.g.s is the favorite place to hang out for fans of the underground techno scene. </string>
+    <string name="dogs_desc">This highly avant garde locale, situated in the business centre of Athens, is actually a day/all
+        night cultural centre which can host live gigs, performances, exhibitions, shows and parties. Open from 10 a.m. until late, with free Wi Fi,
+        a cool garden for the summer months and reasonable prices. The cafe and bar are popular for the interesting cocktails and drinks and the menu is based on seasonal
+        produce. Ice teas, homemade desserts, bagels, soups, draught beers, specially blended vodkas and much more, in a laid back space.</string>
+    <string name="halfnote_title"><u>Half Note Jazz Club</u></string>
+    <string name="halfnote_location">Athens, Greece</string>
+    <string name="halfnote_short_desc">Half Note Jazz Club is an all time classic in Athens</string>
+    <string name="halfnote_desc">Half Note Jazz Club is an all time classic in Athens, with a successful history which goes back to 1979. Well known
+        international and Greek musicians from the jazz scene have played here over the years. The seasonal program includes about 250 shows from October
+        to end May, covering a wide range of music, from jazz and blues to latin, soul and funk. Dexter Gordon, Monty Alexander, Arthur Blythe, Steve Lacy
+        amongst other have played here. The warm, friendly locale, decorated with stone and wood, the positive atmosphere and the quality of the artists have
+        made Half Note a reference point for the public.</string>
+    <string name="galaxy_title"><u>Galaxy Bar</u></string>
+    <string name="galaxy_location">Athens, Greece</string>
+    <string name="galaxy_short_desc">Enjoy stunning views of the ancient Acropolis under a spectacular canopy of stars at the rooftop Galaxy Bar.</string>
+    <string name="galaxy_desc">On the top floor of the Hilton Hotel, with views of the floodlit Acropolis rising above the city rooftops,
+        this see-and-be-seen bar serves pricey cocktails named after the stars, such as Jupiter (gin, Champagne, cucumber and mint), plus finger food.
+        There’s a lovely open-air terrace with a wooden deck and potted olive trees, and occasional celebrity DJ’s playing lounge and electro,
+        and it stays open into the early-morning.</string>
+
+</resources>
