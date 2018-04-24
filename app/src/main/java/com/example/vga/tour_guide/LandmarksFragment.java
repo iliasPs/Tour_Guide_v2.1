@@ -31,11 +31,11 @@ public class LandmarksFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.sight_list, container, false);
 
         final ArrayList<Sight> sights = new ArrayList<Sight>();
-        sights.add(new Sight(R.drawable.acropolis, R.string.acropolis_title, R.string.acropolis_short_desc,R.string.cat_landmark,R.string.acropolis_location, R.string.acropolis_desc));
-        sights.add(new Sight(R.drawable.soldier, R.string.soldier_title, R.string.soldier_short_desc,R.string.cat_landmark,R.string.soldier_location, R.string.soldier_desc));
-        sights.add(new Sight(R.drawable.stadium, R.string.stadium_title, R.string.stadium_short_desc,R.string.cat_landmark,R.string.stadium_location, R.string.stadium_desc));
-        sights.add(new Sight(R.drawable.plaka, R.string.plaka_title, R.string.plaka_short_desc,R.string.cat_landmark,R.string.plaka_location, R.string.plaka_desc));
-        sights.add(new Sight(R.drawable.irodio, R.string.theater_title, R.string.theater_short_desc,R.string.cat_landmark,R.string.theater_location, R.string.theater_desc));
+        sights.add(new Sight(R.drawable.acropolis, R.string.acropolis_title, R.string.acropolis_short_desc,R.string.cat_landmark, R.string.acropolis_desc, R.string.acropolis_lat, R.string.acropolis_long));
+        sights.add(new Sight(R.drawable.soldier, R.string.soldier_title, R.string.soldier_short_desc,R.string.cat_landmark, R.string.soldier_desc, R.string.soldier_lat, R.string.soldier_long));
+        sights.add(new Sight(R.drawable.stadium, R.string.stadium_title, R.string.stadium_short_desc,R.string.cat_landmark, R.string.stadium_desc, R.string.stadium_lat, R.string.stadium_long));
+        sights.add(new Sight(R.drawable.plaka, R.string.plaka_title, R.string.plaka_short_desc,R.string.cat_landmark, R.string.plaka_desc, R.string.plaka_lat, R.string.plaka_long));
+        sights.add(new Sight(R.drawable.irodio, R.string.theater_title, R.string.theater_short_desc,R.string.cat_landmark, R.string.theater_desc, R.string.theater_lat, R.string.theater_long));
 
 
 
@@ -67,3 +67,7 @@ public class LandmarksFragment extends Fragment {
         super.onStop();
     }
 }
+
+
+
+// 37.9716591,23.7246549

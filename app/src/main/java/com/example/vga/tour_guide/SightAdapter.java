@@ -51,8 +51,7 @@ public class SightAdapter extends ArrayAdapter<Sight> {
         TextView sightShortDesc = listItemView.findViewById(R.id.sightShortDesc);
         sightShortDesc.setText(currentSight.getSightShortDesc());
 
-        TextView sightLocation = listItemView.findViewById(R.id.sightLocation);
-        sightLocation.setText(currentSight.getSightLocation());
+
 
             return listItemView;
         }

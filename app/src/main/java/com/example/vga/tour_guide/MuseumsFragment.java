@@ -27,10 +27,10 @@ public class MuseumsFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.sight_list, container, false);
 
         final ArrayList<Sight> sights = new ArrayList<Sight>();
-        sights.add(new Sight(R.drawable.benaki, R.string.benaki_title, R.string.benaki_short_desc,R.string.cat_museum,R.string.benaki_location, R.string.benaki_desc));
-        sights.add(new Sight(R.drawable.acrop_museum, R.string.acropolis_museum_title, R.string.acropolis_museum_short_desc,R.string.cat_museum,R.string.acropolis_museum_location, R.string.acropolis_museum_desc));
-        sights.add(new Sight(R.drawable.cycladic, R.string.cycladic_title, R.string.cycladic_short_desc,R.string.cat_museum,R.string.cycladic_location, R.string.cycladic_desc));
-        sights.add(new Sight(R.drawable.war, R.string.war_title, R.string.war_short_desc,R.string.cat_museum,R.string.war_location, R.string.war_desc));
+        sights.add(new Sight(R.drawable.benaki, R.string.benaki_title, R.string.benaki_short_desc,R.string.cat_museum,R.string.benaki_desc, R.string.benaki_lat, R.string.benaki_long));
+        sights.add(new Sight(R.drawable.acrop_museum, R.string.acropolis_museum_title, R.string.acropolis_museum_short_desc,R.string.cat_museum,R.string.acropolis_museum_desc, R.string.acropolis_museum_lat, R.string.acropolis_museumg_long));
+        sights.add(new Sight(R.drawable.cycladic, R.string.cycladic_title, R.string.cycladic_short_desc,R.string.cat_museum,R.string.cycladic_desc, R.string.cycladic_lat, R.string.cycladic_long));
+        sights.add(new Sight(R.drawable.war, R.string.war_title, R.string.war_short_desc,R.string.cat_museum,R.string.war_desc, R.string.war_lat, R.string.war_long));
         SightAdapter adapter = new SightAdapter(getActivity(), sights);
         ListView listView = (ListView) rootView.findViewById(R.id.list);
         listView.setAdapter(adapter);

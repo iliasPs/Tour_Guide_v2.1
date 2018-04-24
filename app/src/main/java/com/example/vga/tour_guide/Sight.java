@@ -11,27 +11,32 @@ public class Sight implements Parcelable {
 
     private int mSightImage;
     private int mSightTitle;
-    private int mSightLocation;
+
     private int mSightCategory;
     private int mSightShortDesc;
     private int mSightDesc;
+    private int mSightLat;
+    private int mSightLong;
 
-    /** Image resource ID for the word */
+    /**
+     * Image resource ID for the word
+     */
     private int mImageResourceId = NO_IMAGE_PROVIDED;
 
-    /** Constant value that represents no image was provided for this word */
+    /**
+     * Constant value that represents no image was provided for this word
+     */
     private static final int NO_IMAGE_PROVIDED = -1;
 
-    public Sight (int sightImage, int sightTitle,int sightShortDesc, int sightCategory,  int sightLocation, int sightDesc){
+    public Sight(int sightImage, int sightTitle, int sightShortDesc, int sightCategory, int sightDesc, int sightLat, int sightLong) {
 
         mSightImage = sightImage;
         mSightTitle = sightTitle;
-        mSightLocation = sightLocation;
         mSightCategory = sightCategory;
         mSightShortDesc = sightShortDesc;
         mSightDesc = sightDesc;
-
-
+        mSightLat = sightLat;
+        mSightLong = sightLong;
 
 
     }
@@ -48,8 +53,12 @@ public class Sight implements Parcelable {
         return mSightTitle;
     }
 
-    public int getSightLocation() {
-        return mSightLocation;
+    public int getmSightLat() {
+        return mSightLat;
+    }
+
+    public int getmSightLong() {
+        return mSightLong;
     }
 
     public int getSightCategory() {
@@ -63,11 +72,12 @@ public class Sight implements Parcelable {
     protected Sight(Parcel in) {
         mSightImage = in.readInt();
         mSightTitle = in.readInt();
-        mSightLocation = in.readInt();
         mSightCategory = in.readInt();
         mSightShortDesc = in.readInt();
         mImageResourceId = in.readInt();
-        mSightDesc=in.readInt();
+        mSightDesc = in.readInt();
+        mSightLat = in.readInt();
+        mSightLong = in.readInt();
     }
 
     @Override
@@ -79,11 +89,13 @@ public class Sight implements Parcelable {
     public void writeToParcel(Parcel dest, int flags) {
         dest.writeInt(mSightImage);
         dest.writeInt(mSightTitle);
-        dest.writeInt(mSightLocation);
+
         dest.writeInt(mSightCategory);
         dest.writeInt(mSightShortDesc);
         dest.writeInt(mImageResourceId);
         dest.writeInt(mSightDesc);
+        dest.writeInt(mSightLat);
+        dest.writeInt(mSightLong);
     }
 
     @SuppressWarnings("unused")

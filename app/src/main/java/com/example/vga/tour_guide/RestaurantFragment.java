@@ -35,10 +35,10 @@ public class RestaurantFragment extends Fragment {
 
 
         final ArrayList<Sight> sights = new ArrayList<Sight>();
-        sights.add(new Sight(R.drawable.sky, R.string.dinner_sky_title, R.string.dinner_sky_short_desc,R.string.cat_restaurants,R.string.dinner_sky_location, R.string.dinner_sky_desc));
-        sights.add(new Sight(R.drawable.aleria, R.string.aleria_title, R.string.aleria_short_desc,R.string.cat_restaurants,R.string.aleria_location, R.string.aleria_desc));
-        sights.add(new Sight(R.drawable.psarras, R.string.psarras_title, R.string.psarras_short_desc,R.string.cat_restaurants,R.string.psarras_location, R.string.psarras_desc));
-        sights.add(new Sight(R.drawable.varoulko, R.string.varoulko_title, R.string.varoulko_short_desc,R.string.cat_restaurants,R.string.varoulko_location, R.string.varoulko_desc));
+        sights.add(new Sight(R.drawable.sky, R.string.dinner_sky_title, R.string.dinner_sky_short_desc,R.string.cat_restaurants,R.string.dinner_sky_desc, R.string.dinner_sky_lat, R.string.dinner_sky_long));
+        sights.add(new Sight(R.drawable.aleria, R.string.aleria_title, R.string.aleria_short_desc,R.string.cat_restaurants,R.string.aleria_desc, R.string.aleria_lat, R.string.aleria_long));
+        sights.add(new Sight(R.drawable.psarras, R.string.psarras_title, R.string.psarras_short_desc,R.string.cat_restaurants, R.string.psarras_desc, R.string.psarras_lat, R.string.psarras_long));
+        sights.add(new Sight(R.drawable.varoulko, R.string.varoulko_title, R.string.varoulko_short_desc,R.string.cat_restaurants,R.string.varoulko_desc, R.string.varoulko_lat, R.string.varoulko_long));
         SightAdapter adapter = new SightAdapter(getActivity(), sights);
         ListView listView = (ListView) rootView.findViewById(R.id.list);
         listView.setAdapter(adapter);

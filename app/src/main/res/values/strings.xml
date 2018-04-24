@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Tour_Guide</string>
 
-
+<string name="google_maps_key">AIzaSyA0kbPmqE4xgpddW1W4kaP4qntwJw_m-ok</string>
     <string name="acropolis_short_desc">The Acropolis of Athens and its monuments are universal
         symbols of the classical spirit and civilization</string>
     <string name="acropolis_desc">The Acropolis of Athens and its monuments are universal
@@ -16,13 +16,16 @@
         , the Propylaea, the monumental entrance to the Acropolis, designed by Mnesicles and the small temple Athena Nike.</string>
     <string name="acropolis_title"><u>Acropolis</u></string>
     <string name="acropolis_location">Athens, Greece</string>
+    <string name="acropolis_lat">37.9716591, 23.7246549</string>
+    <string name="acropolis_long">23.7246549</string>
     <string name="cat_landmark">Landmarks</string>
     <string name="cat_museum">Museums</string>
     <string name="cat_bars">Bars</string>
     <string name="cat_restaurants">Restaurants</string>
     <string name="soldier_short_desc">The Tomb of the Unknown Soldier is a war memorial located in Syntagma Square in Athens</string>
     <string name="soldier_title"><u>Tomb of the Unknown Soldier</u></string>
-
+<string name="soldier_lat">37.975342</string>
+    <string name="soldier_long">23.7341668</string>
     <string name="soldier_desc">The Tomb of the Unknown soldier is located in Syntagma
         Square in Athens by the Hellenic Parliament building. The tomb honors all those Greek soldiers who were ever killed
         in war and each day, there is a special ceremony performed here that further honors the following.
@@ -32,6 +35,8 @@
     <string name="soldier_location">Athens, Greece</string>
     <string name="stadium_title"><u>Panathenaic Stadium</u></string>
     <string name="stadium_location">Athens, Greece</string>
+    <string name="stadium_lat">37.9683342</string>
+    <string name="stadium_long">23.7389231</string>
     <string name="stadium_short_desc">The Panathenaic Stadium or Kallimarmaro is a multi-purpose stadium in Athens, Greece.
     One of the main historic attractions of Athens</string>
     <string name="stadium_desc">The Panathenaic Stadium is located on the site of an ancient stadium and for many centuries hosted games in which nude male athletes
@@ -45,6 +50,8 @@
         of the Great Panathenaia in 330/29 BC, when games in which nude athletes competed were held.</string>
     <string name="plaka_title"><u>Plaka</u></string>
     <string name="plaka_location">Athens, Greece</string>
+    <string name="plaka_lat">37.9706805</string>
+    <string name="plaka_long">23.7206591</string>
     <string name="plaka_short_desc">Pláka is the old historical neighborhood of Athens, clustered around the northern and eastern slopes of the Acropolis</string>
     <string name="plaka_desc">The area of Plaka is one of the most attractive districts of Athens. Under the slopes of the Acropolis Plaka
         attracts all the visitors of Athens with its neoclassical mansions and houses with roofs from red tiles, its small winding roads
@@ -66,8 +73,12 @@
         roof covered the theatre in the ancient times. Today you can attend the Athens Art Festival, musical concerts and classical tragedies under the night sky with a marvelous
         acoustic experience. All events are held from May to early October since the theatre is open. The Herodeion Theatre stands on Dionysiou Areopagitou Pedestrian
         Street, right under the Acropolis.</string>
+    <string name="theater_lat">37.9707076</string>
+    <string name="theater_long">23.7240869</string>
     <string name="benaki_title"><u>Benaki Museum</u></string>
     <string name="benaki_location">Athens, Greece</string>
+    <string name="benaki_lat">37.9741673</string>
+    <string name="benaki_long">23.7061139</string>
     <string name="benaki_short_desc">he Benaki Museum, established and endowed in 1930 by Antonis Benakis in memory of his father Emmanuel Benakis,
         is housed in the Benakis family mansion in downtown Athens, Greece</string>
     <string name="benaki_desc">The Benaki Museum was founded in 1930 by Antonis Benakis and presents the historical and cultural development of
@@ -75,6 +86,8 @@
         the medieval Byzantine period and from the fall of Constantinople to the struggle for Greek independence in 1821- the Benaki Museum
         is perhaps the sole instance of a complex structure within the broader network of museum foundations in Greece.</string>
     <string name="acropolis_museum_title"><u>Acropolis Museum</u></string>
+    <string name="acropolis_museum_lat">37.9684499</string>
+    <string name="acropolis_museumg_long">23.726334</string>
     <string name="acropolis_museum_location">Athens, Greece</string>
     <string name="acropolis_museum_short_desc">The Acropolis Museum is an archaeological museum focused on the findings of
         the archaeological site of the Acropolis of Athens.</string>
@@ -115,6 +128,8 @@ Today, the new Acropolis Museum has a total area of 25,000 square meters, with e
         times more than that of the old museum on the Hill of the Acropolis. The new Museum offers all the amenities expected in an international museum of
         the 21st century.</string>
     <string name="cycladic_title"><u>Museum of Cycladic Art</u></string>
+    <string name="cycladic_lat">37.9760092</string>
+    <string name="cycladic_long">23.7400205</string>
     <string name="cycladic_location">Athens, Greece</string>
     <string name="cycladic_short_desc">The Museum of Cycladic Art is a private living cultural institution in the heart of Athens. </string>
     <string name="cycladic_desc">The Museum of Cycladic Art is a private living cultural institution in the heart of Athens. More than 3.000 objects of
@@ -124,6 +139,8 @@ Today, the new Acropolis Museum has a total area of 25,000 square meters, with e
         4 Neofytou Douka Str and Vasilissis Sofias Avenue.</string>
     <string name="war_title"><u>War Museum</u></string>
     <string name="war_location">Athens, Greece</string>
+    <string name="war_lat">37.9753824</string>
+    <string name="war_long">23.7431509</string>
     <string name="war_short_desc">The Athens War Museum, established on July 18, 1975, is the museum of the Greek Armed Forces.</string>
     <string name="war_desc">In 1964, the Hellenic State decided to found the War Museum, wishing to honor all those who fought for our country and its
         freedom.The design of the museum was undertaken by a team of distinguished scientists, headed by Professor Thoukidides Valentis of the National
@@ -133,6 +150,8 @@ Today, the new Acropolis Museum has a total area of 25,000 square meters, with e
         levels (floors) and present images of Greek history from antiquity to the present.</string>
     <string name="dinner_sky_title"><u>Dinner in the Sky</u></string>
     <string name="dinner_sky_location">Athens, Greece</string>
+    <string name="dinner_sky_lat">37.9784869</string>
+    <string name="dinner_sky_long">23.7104029</string>
     <string name="dinner_sky_short_desc">A unique dining experience in the center of Athens - Greece. Something you will always remember. </string>
     <string name="dinner_sky_desc">An extraordinary culinary proposal -in the center of Athens- welcomes you! A table for 22 people, along with our
         experienced chefs who are preparing a 5 course menu, lifts you up to 50 meters and offers once in a life time experience over the city.
@@ -143,6 +162,8 @@ Dinner in the Sky takes you to heaven, while the nightlife of Athens “awakens�
 Invite your friends, loved ones or colleagues to a special dinner and spice up your nights in Athens with a combination of exceptional food
         and breathtaking views. Try special, modern tastes inspired by the Greek tradition accompanied by delicious Greek wines.</string>
     <string name="varoulko_title"><u>Varoulko Seaside</u></string>
+    <string name="varoulko_lat">37.9373865</string>
+    <string name="varoulko_long">23.6562498</string>
     <string name="varoulko_location">Athens, Greece</string>
     <string name="varoulko_short_desc">Widely acknowledged as the finest seafood restaurant in Athens, Lefteris Lazarou’s Michelin-starred Varoulko has
         long been a magnet for foodies.</string>
@@ -153,6 +174,8 @@ Invite your friends, loved ones or colleagues to a special dinner and spice up y
         followed by Red mullet fillets with a light lemon sauce. You’ll find it at a lovely waterside location, overlooking the yachts and fishing boats
         in Mikrolimano Bay.</string>
     <string name="aleria_title"><u>Aleria</u></string>
+    <string name="aleria_lat">37.983094</string>
+    <string name="aleria_long">23.715604</string>
     <string name="aleria_location">Athens, Greece</string>
     <string name="aleria_short_desc">In up-and-coming Metaxourgio, Aleria occupies a neoclassical building with an old tile floor and
         a romantic leafy courtyard out back.</string>
@@ -170,6 +193,8 @@ The restaurant’s creative cuisine has been awarded many times; chef Gikas Xena
         lamp inwards, the beef cheeks flavored with fennel and lemon.</string>
 
     <string name="psarras_title"><u>Psarras</u></string>
+    <string name="psarras_lat">37.9729061</string>
+    <string name="psarras_long">23.7263618</string>
     <string name="psarras_location">Athens, Greece</string>
     <string name="psarras_short_desc">Plakas oldest restaurant continues to receive connoisseurs of the finest that Greek traditional cuisine has to offer</string>
     <string name="psarras_desc">It is a classical tavern that remains for over two decades a meeting point of all those seeking
@@ -177,6 +202,8 @@ The restaurant’s creative cuisine has been awarded many times; chef Gikas Xena
         business lunches, dinners and small group events. During summer, the picturesque alley becomes the pavilion of Psaras offering an authentic
         experience to your guests.</string>
     <string name="clumsies_title"><u>The Clumsies</u></string>
+    <string name="clumsies_lat">37.978931</string>
+    <string name="clumsies_long">23.7275673</string>
     <string name="clumsies_location">Athens, Greece</string>
     <string name="clumsies_short_desc">Far from clumsy...</string>
     <string name="clumsies_desc">Far from clumsy, the concept of this warm and fun establishment is cleverly engineered to embrace a young crowd who like
@@ -189,6 +216,8 @@ The cocktail list changes annually. Currently called Genesis, it is inspired by 
 The Clumsies is more than a bar, it is also a brand: the team organises various international cocktail projects, including the American Dream Bar, the
         Asian and the Hotel pop-up where guests from some of the best bars in the world are invited to show their projects to the Athenian audience.</string>
     <string name="rock_title"><u>Rock \'n Roll</u></string>
+    <string name="rock_lat">37.9789306</string>
+    <string name="rock_long">23.7210012</string>
     <string name="rock_location">Athens, Greece</string>
     <string name="rock_short_desc">Rock n Roll is an old favorite with Athenians who prefer timeless class and naturally rock n roll music</string>
     <string name="rock_desc">Rock n Roll is an old favorite with Athenians who prefer timeless class and naturally rock n roll music.
@@ -198,6 +227,8 @@ The Clumsies is more than a bar, it is also a brand: the team organises various 
         understated luxury in details.
     </string>
     <string name="dogs_title"><u>Six d.o.g.s</u></string>
+    <string name="dogs_lat">37.9774684</string>
+    <string name="dogs_long">23.7246229</string>
     <string name="dogs_location">Athens, Greece</string>
     <string name="dogs_short_desc">Six d.o.g.s is the favorite place to hang out for fans of the underground techno scene. </string>
     <string name="dogs_desc">This highly avant garde locale, situated in the business centre of Athens, is actually a day/all
@@ -205,6 +236,8 @@ The Clumsies is more than a bar, it is also a brand: the team organises various 
         a cool garden for the summer months and reasonable prices. The cafe and bar are popular for the interesting cocktails and drinks and the menu is based on seasonal
         produce. Ice teas, homemade desserts, bagels, soups, draught beers, specially blended vodkas and much more, in a laid back space.</string>
     <string name="halfnote_title"><u>Half Note Jazz Club</u></string>
+    <string name="halfnote_lat">37.9650101</string>
+    <string name="halfnote_long">23.732474</string>
     <string name="halfnote_location">Athens, Greece</string>
     <string name="halfnote_short_desc">Half Note Jazz Club is an all time classic in Athens</string>
     <string name="halfnote_desc">Half Note Jazz Club is an all time classic in Athens, with a successful history which goes back to 1979. Well known
@@ -213,6 +246,8 @@ The Clumsies is more than a bar, it is also a brand: the team organises various 
         amongst other have played here. The warm, friendly locale, decorated with stone and wood, the positive atmosphere and the quality of the artists have
         made Half Note a reference point for the public.</string>
     <string name="galaxy_title"><u>Galaxy Bar</u></string>
+    <string name="galaxy_lat">37.976003</string>
+    <string name="galaxy_long">23.7484393</string>
     <string name="galaxy_location">Athens, Greece</string>
     <string name="galaxy_short_desc">Enjoy stunning views of the ancient Acropolis under a spectacular canopy of stars at the rooftop Galaxy Bar.</string>
     <string name="galaxy_desc">On the top floor of the Hilton Hotel, with views of the floodlit Acropolis rising above the city rooftops,
